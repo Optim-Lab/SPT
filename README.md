@@ -1,7 +1,7 @@
 # Generating High-Diversity Synthetic Tabular Data via a Less-Constrained Prior
 
 This is the official implementation of the paper  
-**"Generating High-Diversity Synthetic Tabular Data via a Less-Constrained Prior"**
+**"Generating High-Diversity Synthetic Tabular Data via a Less-Constrained Prior"** (IJACI-ECAI 2026).
 
 ---
 
@@ -151,3 +151,6 @@ You can run this notebook to verify the performance and understand the workflow 
 
 ---
 
+## Cite
+```
+```
