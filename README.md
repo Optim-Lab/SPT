@@ -153,6 +153,20 @@ You can run this notebook to verify the performance and understand the workflow 
 
 ## Cite
 ```
+@inproceedings{ijcai2026p525,
+  title     = {Generating High-Diversity Synthetic Tabular Data via Less-Constrained Prior},
+  author    = {Park, Sanghun and Lim, Jaesung and Jeon, Jong-June and An, Seunghwan},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {4714--4722},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/525},
+  url       = {https://doi.org/10.24963/ijcai.2026/525},
+}
 ```
 
 ## Acknowledgement
